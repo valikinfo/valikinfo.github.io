@@ -1,0 +1,279 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>let's go see!</title>
+    
+<style type="text/css">
+/* import eric meyer reset
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css");
+*/
+
+@font-face {font-family: test1; src: url('transfonter.woff') format('woff');}
+@font-face {font-family: test2; src: url('font2web.woff') format('woff');}
+@font-face {font-family: test3; src: url('test3.ttf') format('truetype');}	
+@font-face {font-family: test4; src: url('test4.ttf') format('truetype');}
+
+body {
+	background-color: #ddf9ed;
+	padding: 10px;
+}
+
+#debug, #debug2 {
+	background-color: #fffff0;
+	width: 100%;
+	min-width: 300px;
+	max-width: 800px;
+	height: 24px;
+	margin: 0 auto;
+	line-height: 1.5em;
+	font-family: courier,monospace;
+	text-align: center;
+}
+
+.d0 {
+	_border: 1px solid maroon;
+	_overflow: hidden;
+	margin: 0 auto;
+	_width: 100%;
+	min-width: 300px;
+	max-width: 800px;
+	position: relative;
+}
+
+.d1 {
+	background-color: #ddf9ed;
+	margin: 0 0 2%;
+	display: block;
+	_float: left;
+	width: 100%;
+	min-width: 300px;
+	max-width: 800px;
+	position: absolute;
+	top: 0;
+	left: 0
+	z-index: 1;
+}
+
+#d11 {
+	border-top: 4px solid green;
+	z-index: 2;
+}
+
+
+#d12 {
+	border-top: 4px solid #1c69b7;
+	z-index: 1;
+}
+
+.d12 {
+	border-top: 4px solid blue !important;
+}
+
+.d2 {
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 0 0 10px 10px;
+}
+
+.d3 {
+	max-height: 100%;
+	overflow: auto;
+	font-size: 20px;
+	font-weight: normal;
+	min-height: 130px;
+	-webkit-transition: height 500ms;
+	/* safari */
+	transition: height .2s;
+}
+
+#d31 {
+	font-family: test1;
+}
+
+
+#d32 {
+	font-family: test2;
+}
+
+.btn {
+	display: inline-block;
+	margin: 12px 0;
+	width: 24px;
+	height: 24px;
+	border: 1px solid #bbb;
+	border-radius: 4px;
+	background-color: #fff;
+	text-align: center;
+	line-height: 24px;
+	cursor: pointer;
+	font: 14px tahoma,sans-serif;
+}
+
+#buttons-center {
+	margin: 10px auto;
+	display: block;
+	width: 600px;
+	text-align: center;
+}
+
+.btn-center {
+	display: inline-block;
+	margin: 0 5px;
+	line-height: 24px;
+}
+
+#zindex {
+	width: 80px;
+}
+
+#debug, #weight, .wind-size {display: none}
+
+</style>
+
+  </head>
+
+  <body>
+
+    <!-- TEST -->
+<div id="debug">test</div>
+<div id="debug2">font 1 displayed</div>
+<div class="btn wind-size" id="viewminus">-</div>
+<div class="btn wind-size" id="viewplus">+</div>
+<div class="btn weight" id="weight">B</div>
+<div id="buttons-center">
+	<div class="btn font-size btn-center" id="sizeminus">-</div>
+	<div class="btn btn-center" id="zindex">see font 2</div>
+	<div class="btn font-size btn-center" id="sizeplus">+</div>
+</div>
+<div class="d0">
+  <div id="d11" class="d1">
+    <div class="d2">
+      <div id="d31" class="d3">
+        <b>Those who saw him hushed.</b> On Church Street. Liberty. Cortlandt. West Street. Fulton. Vesey. It was a silence that heard itself, awful and beautiful. Some thought at first that it must have been a trick of the light, something to do with the weather, an
+        accident of shadow fall. Others figured it might be the perfect city joke—stand around and point upward, until people gathered, tilted their heads, nodded, affirmed, until all were staring upward at nothing at all, like waiting for the end of
+        a Lenny Bruce gag. But the longer they watched, the surer they were. He stood at the very edge of the building, shaped dark against the gray of the morning. A window washer maybe. Or a construction worker. Or a jumper. Up there, at the height
+        of a hundred and ten stories, utterly still, a dark toy against the cloudy sky. He could only be seen at certain angles so that the watchers had to pause at street corners, find a gap between buildings, or meander from the shadows to get a view
+        unobstructed by cornicework, gargoyles, balustrades, roof edges. None of them had yet made sense of the line strung at his feet from one tower to the other. Rather, it was the man-shape that held them there, their necks craned, torn between the
+        promise of doom and the disappointment of the ordinary.
+      </div>
+    </div>
+  </div>
+  <div id="d12" class="d1">
+    <div class="d2">
+      <div id="d32" class="d3">
+        <b>Those who saw him hushed.</b> On Church Street. Liberty. Cortlandt. West Street. Fulton. Vesey. It was a silence that heard itself, awful and beautiful. Some thought at first that it must have been a trick of the light, something to do with the weather, an
+        accident of shadow fall. Others figured it might be the perfect city joke—stand around and point upward, until people gathered, tilted their heads, nodded, affirmed, until all were staring upward at nothing at all, like waiting for the end of
+        a Lenny Bruce gag. But the longer they watched, the surer they were. He stood at the very edge of the building, shaped dark against the gray of the morning. A window washer maybe. Or a construction worker. Or a jumper. Up there, at the height
+        of a hundred and ten stories, utterly still, a dark toy against the cloudy sky. He could only be seen at certain angles so that the watchers had to pause at street corners, find a gap between buildings, or meander from the shadows to get a view
+        unobstructed by cornicework, gargoyles, balustrades, roof edges. None of them had yet made sense of the line strung at his feet from one tower to the other. Rather, it was the man-shape that held them there, their necks craned, torn between the
+        promise of doom and the disappointment of the ordinary.
+      </div>
+    </div>
+  </div>
+</div>
+    
+<script type="text/javascript">
+
+/* resize preview by id *
+document.getElementById("viewminus").onclick = function() {
+  viewsizeid("d31", -15); // number is the height step
+}
+
+document.getElementById("viewplus").onclick = function() {
+  viewsizeid("d31", 15); // number is the height step
+}
+
+function viewsizeid(viewid,viewstep) {
+  var viewheightid = parseInt(document.getElementById(viewid).clientHeight) + viewstep + "px";
+  // document.getElementById("demo").innerHTML = viewheightid;
+  document.getElementById("d31").style.height = viewheightid;
+}
+*/
+/* resize all previews by class */
+document.getElementById("viewminus").onclick = function() {
+	vertsizecl("d3", "-15px");
+}
+
+document.getElementById("viewplus").onclick = function() {
+	vertsizecl("d3", "15px");
+}
+
+function vertsizecl(vwclass, htstep) {
+	var views = document.getElementsByClassName(vwclass);
+	for (var i = 0; i < views.length; ++i) {
+		var vwheight = parseInt(views[i].clientHeight) + parseInt(htstep) + "px";
+		views[i].style.height = vwheight;
+	}
+}
+
+/* resize fonts by class */
+document.getElementById("sizeminus").onclick = function() {
+	fontsizecl("d3", "-1px");
+}
+
+document.getElementById("sizeplus").onclick = function() {
+	fontsizecl("d3","1px");
+}
+
+function fontsizecl(divclass,fntstep) {
+  var divs = document.getElementsByClassName(divclass);
+	for (var i = 0; i < divs.length; i++) {
+		var fntsize1 = window.getComputedStyle(divs[i], null).getPropertyValue('font-size');
+		var fntsize2 = parseInt(fntsize1) + parseInt(fntstep) + "px";
+		divs[i].style.fontSize = fntsize2;
+		document.getElementById("debug2").innerHTML = fntsize2;
+	}
+}
+
+document.getElementById("weight").onclick = function() {
+  weight("d31");
+}
+
+document.getElementById("zindex").onclick = function() {
+  tofront("d11","d12");
+}
+
+function weight(viewid) {
+  if (document.getElementById(viewid).style.fontWeight !== "bold") {
+    document.getElementById("debug").innerHTML = "bold";
+    document.getElementById(viewid).style.fontWeight = "bold";
+  } else {
+    document.getElementById("debug").innerHTML = "normal";
+    document.getElementById(viewid).style.fontWeight = "normal";
+  }
+}
+
+function tofront(blockid1,blockid2) {
+	var zind = window.getComputedStyle(document.getElementById(blockid1), null).getPropertyValue('z-index');
+  if (zind == "2") {
+    document.getElementById(blockid1).style.zIndex = "1";
+    document.getElementById(blockid2).style.zIndex = "2";
+    document.getElementById("zindex").innerHTML = "see font 1";
+    document.getElementById("debug2").innerHTML = "font 2 displayed";
+  } else {
+    document.getElementById(blockid1).style.zIndex = "2";
+    document.getElementById(blockid2).style.zIndex = "1";
+    document.getElementById("zindex").innerHTML = "see font 2";
+    document.getElementById("debug2").innerHTML = "font 1 displayed";
+  }
+}
+
+/*
+	var cusid_ele = document.getElementsByClassName('custid');
+	for (var i = 0; i < cusid_ele.length; ++i) {
+	    var item = cusid_ele[i];  
+	    item.innerHTML = 'this is value';
+	}
+	*/
+
+	/*
+	var elems = document.querySelectorAll('.one');
+	for (var i = 0; i < elems.length; i++) {
+	    elems[i].innerHTML = 'content';
+	};
+	*/
+</script>
+    
+  </body>
+</html>
