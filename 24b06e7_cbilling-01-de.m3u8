@@ -1,0 +1,3139 @@
+#EXTM3U
+#EXTINF:0,Первый канал
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/pervyj.m3u8
+#EXTINF:0,Первый HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/pervyj-hd-orig.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/rossija.m3u8
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/rossija-hd-orig.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/ntv.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/ntv-hd-orig.m3u8
+#EXTINF:0,НТВ Мир
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/ntv-mir.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/TNT.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/tnt-hd-orig.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/tnt4.m3u8
+#EXTINF:0,ТНТ4 HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/tnt4-hd-orig.m3u8
+#EXTINF:0,СТС
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/CTC.m3u8
+#EXTINF:0,СТС HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/ctc-hd-orig.m3u8
+#EXTINF:0,СТС Love
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/sts-love.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/domashnij.m3u8
+#EXTINF:0,Домашний HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/domashnij-hd-orig.m3u8
+#EXTINF:0,Перец
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/perec.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/ren-tv.m3u8
+#EXTINF:0,РЕН ТВ HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/ren-tv-hd-orig.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/tv3.m3u8
+#EXTINF:0,ТВ3 HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/tv3-hd-orig.m3u8
+#EXTINF:0,Че
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/4e.m3u8
+#EXTINF:0,Звезда
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/zvezda.m3u8
+#EXTINF:0,Звезда HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/zvezda-hd.m3u8
+#EXTINF:0,Звезда Плюс
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/zvezda-plus.m3u8
+#EXTINF:0,Звезда Плюс HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/zvezda-plus-hd.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/tvc.m3u8
+#EXTINF:0,ТВЦ HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/tvc-hd-orig.m3u8
+#EXTINF:0,Санкт-Петербург HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/sankt-peterburg-hd.m3u8
+#EXTINF:0,Центральное телевидение
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/centralnoe-tv.m3u8
+#EXTINF:0,5 канал
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/5kanal.m3u8
+#EXTINF:0,Россия Культура
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/rossija-k.m3u8
+#EXTINF:0,Россия Культура HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/rossija-k-hd.m3u8
+#EXTINF:0,Москва Доверие
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/moskva-doverie.m3u8
+#EXTINF:0,Союз
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/souz.m3u8
+#EXTINF:0,Спас
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/spas.m3u8
+#EXTINF:0,Красная линия
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/krasnaja-linija.m3u8
+#EXTINF:0,8 канал
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/8-kanal.m3u8
+#EXTINF:0,9 Канал
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/9-kanal.m3u8
+#EXTINF:0,ОТР
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/otp.m3u8
+#EXTINF:0,ОТР HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/otr-hd.m3u8
+#EXTINF:0,Мир
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/mir.m3u8
+#EXTINF:0,Мир HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/mir-hd.m3u8
+#EXTINF:0,Мир 24
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/mir-24.m3u8
+#EXTINF:0,Мир 24 HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/mir-24-hd.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/sarafan.m3u8
+#EXTINF:0,Gagsnetwork
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/gagsnetwork.m3u8
+#EXTINF:0,Gagsnetwork HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/gagsnetwork-hd.m3u8
+#EXTINF:0,КВН ТВ
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/kvn-tv.m3u8
+#EXTINF:0,Пятница
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/piatnica.m3u8
+#EXTINF:0,Пятница HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/piatnica-hd-orig.m3u8
+#EXTINF:0,Суббота
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/super.m3u8
+#EXTINF:0,Суббота HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/super-hd-orig.m3u8
+#EXTINF:0,Телеканал 360
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/telekanal-360.m3u8
+#EXTINF:0,Телеканал 360 HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/telekanal-360-hd.m3u8
+#EXTINF:0,Ю ТВ
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/yu-tv.m3u8
+#EXTINF:0,Время
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/vremya.m3u8
+#EXTINF:0,RT Док
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/russia-today-doc.m3u8
+#EXTINF:0,RT Док HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/russia-today-doc-hd.m3u8
+#EXTINF:0,RTVi
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/rtvi.m3u8
+#EXTINF:0,Дождь
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/dozhd.m3u8
+#EXTINF:0,Дождь HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/dozhd-hd.m3u8
+#EXTINF:0,Настоящее время HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com:8090/s/aa0084a7/nastoyaschee-vremya-hd.m3u8
+#EXTINF:0,Россия 24
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/rossija24.m3u8
+#EXTINF:0,EuroNews
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/evronews.m3u8
+#EXTINF:0,Известия
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/izvestija.m3u8
+#EXTINF:0,Известия HD
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/izvestija-hd.m3u8
+#EXTINF:0,360 Новости HD
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/360-novosti-hd.m3u8
+#EXTINF:0,Москва 24
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/moskva-24.m3u8
+#EXTINF:0,РБК
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/rbk.m3u8
+#EXTINF:0,РБК HD
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/rbk-hd.m3u8
+#EXTINF:0,RT
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/russia-today.m3u8
+#EXTINF:0,RT HD
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/russia-today-hd.m3u8
+#EXTINF:0,DW Russian
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/deutsche-welle.m3u8
+#EXTINF:0,Sky News
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/sky-news-uk.m3u8
+#EXTINF:0,Sky News HD
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/sky-news-uk-hd.m3u8
+#EXTINF:0,FOX News HD
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/fox-news-hd.m3u8
+#EXTINF:0,BBC World
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/bbc-world-news.m3u8
+#EXTINF:0,BBC World HD
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/bbc-world-news-hd.m3u8
+#EXTINF:0,CNN
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/cnn.m3u8
+#EXTINF:0,CNN HD
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/cnn-hd.m3u8
+#EXTINF:0,Bloomberg TV HD
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/bloomberg-hd.m3u8
+#EXTINF:0,Al Jazeera HD
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/al-jazeera-hd.m3u8
+#EXTINF:0,ABC HD
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/abc-us-hd.m3u8
+#EXTINF:0,CBS HD
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/cbs-us-hd.m3u8
+#EXTINF:0,NBC HD
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/nbc-us-hd.m3u8
+#EXTINF:0,CNBC HD
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/cnbc-us-hd.m3u8
+#EXTINF:0,MSNBC HD
+#EXTGRP:Новости
+http://s01.wsbof.com:8090/s/aa0084a7/msnbc-us-hd.m3u8
+#EXTINF:0,Кинопремьера HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinopremiera-hd-orig.m3u8
+#EXTINF:0,Премиальное HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kino-premium-hd-orig.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/ostrosujetnoe-hd-orig.m3u8
+#EXTINF:0,Хит HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/hit-hd-orig.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinohit.m3u8
+#EXTINF:0,Кинохит HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinohit-hd-orig.m3u8
+#EXTINF:0,Киномикс
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinomix.m3u8
+#EXTINF:0,Киномикс HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinomix-hd-orig.m3u8
+#EXTINF:0,Киносемья
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinosemja.m3u8
+#EXTINF:0,Киносемья HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinosemja-hd-orig.m3u8
+#EXTINF:0,Киносвидание
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinosvidanije.m3u8
+#EXTINF:0,Киносвидание HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinosvidanije-hd-orig.m3u8
+#EXTINF:0,Киносерия
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/mnogo-tv.m3u8
+#EXTINF:0,Киносерия HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/mnogo-tv-hd-orig.m3u8
+#EXTINF:0,Кинопоказ
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinopokaz.m3u8
+#EXTINF:0,Кинопоказ HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinopokaz-hd-orig.m3u8
+#EXTINF:0,Блокбастер HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/blokbaster-hd-orig.m3u8
+#EXTINF:0,Наш Кинопоказ HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/nash-kinopokaz-hd-orig.m3u8
+#EXTINF:0,Душевное HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/nash-kinoroman-hd-orig.m3u8
+#EXTINF:0,Наше HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/nash-detektiv-hd-orig.m3u8
+#EXTINF:0,Любимое HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/nashe-lubimoe-hd-orig.m3u8
+#EXTINF:0,Viju+ premiere HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/vip-premiere-hd-orig.m3u8
+#EXTINF:0,Viju+ megahit HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/vip-megahit-hd-orig.m3u8
+#EXTINF:0,Viju+ comedy HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/vip-comedy-hd-orig.m3u8
+#EXTINF:0,Viju+ serial HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/vip-serial-hd-orig.m3u8
+#EXTINF:0,Viju TV1000
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/tv1000.m3u8
+#EXTINF:0,Viju TV1000 HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/tv1000-hd-orig.m3u8
+#EXTINF:0,Viju TV1000 action
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/tv1000-action.m3u8
+#EXTINF:0,Viju TV1000 action HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/tv1000-action-hd-orig.m3u8
+#EXTINF:0,Viju TV1000 русское
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/tv1000-russkoje.m3u8
+#EXTINF:0,Viju TV1000 русское HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/tv1000-russkoje-hd.m3u8
+#EXTINF:0,Viju TV1000 новелла HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/viju-tv1000-nowella-hd.m3u8
+#EXTINF:0,Viju TV1000 новелла HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/viju-tv1000-nowella-hd-orig.m3u8
+#EXTINF:0,Viasat Kino World
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/tv1000-world-kino.m3u8
+#EXTINF:0,Viasat Kino World HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/tv1000-world-kino-hd.m3u8
+#EXTINF:0,Hollywood HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/mgm-hd.m3u8
+#EXTINF:0,Cinema
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/cinema.m3u8
+#EXTINF:0,Cinema HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/cinema-hd-orig.m3u8
+#EXTINF:0,Кино ТВ
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kino-tv.m3u8
+#EXTINF:0,Кино ТВ HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kino-tv-hd-orig.m3u8
+#EXTINF:0,Kinojam 1 HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinojam1-hd.m3u8
+#EXTINF:0,Kinojam 2 HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinojam2-hd.m3u8
+#EXTINF:0,Family Jam HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/family-jam-hd.m3u8
+#EXTINF:0,Detective Jam HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/detective-jam-hd.m3u8
+#EXTINF:0,KinoLiving HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinoliving-hd.m3u8
+#EXTINF:0,KION Хит HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kion-hit-hd.m3u8
+#EXTINF:0,Start World
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/start-world.m3u8
+#EXTINF:0,Боевики HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/boeviki-hd.m3u8
+#EXTINF:0,Start World HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/start-world-hd.m3u8
+#EXTINF:0,Start Air
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/start-air.m3u8
+#EXTINF:0,Start Air HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/start-air-hd.m3u8
+#EXTINF:0,Plan B
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/plan-b.m3u8
+#EXTINF:0,Plan B HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/plan-b-hd.m3u8
+#EXTINF:0,4ever Cinema HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/4ever-cinema-ua-hd.m3u8
+#EXTINF:0,Кинеко HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kineko-hd.m3u8
+#EXTINF:0,Еврокино
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/evrokino.m3u8
+#EXTINF:0,Еврокино HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/evrokino-hd.m3u8
+#EXTINF:0,Кино Без Границ HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kino-bez-granic-hd.m3u8
+#EXTINF:0,Flix Snip
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/flix-snip.m3u8
+#EXTINF:0,Flix Snip HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/flix-snip-hd.m3u8
+#EXTINF:0,SHOT TV
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/egoist-tv.m3u8
+#EXTINF:0,SHOT TV HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/egoist-tv-hd.m3u8
+#EXTINF:0,VHS-ка HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/vhska-hd.m3u8
+#EXTINF:0,Мужское кино
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/muzhskoe-kino.m3u8
+#EXTINF:0,Мужское кино HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/muzhskoe-kino-hd-orig.m3u8
+#EXTINF:0,Наше Мужское HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/nashe-muzshkoe-hd-orig.m3u8
+#EXTINF:0,Trash HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/trash-hd.m3u8
+#EXTINF:0,Страшное HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/strashnoe-hd.m3u8
+#EXTINF:0,Шокирующее HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/shokiruschee-hd-orig.m3u8
+#EXTINF:0,Киноужас HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinouzhas-hd-orig.m3u8
+#EXTINF:0,Scream
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/Scream.m3u8
+#EXTINF:0,Scream HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/scream-hd.m3u8
+#EXTINF:0,НСТ
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/hct.m3u8
+#EXTINF:0,Комедия
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/russkaja-comedija.m3u8
+#EXTINF:0,Кинокомедия
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinokomedia.m3u8
+#EXTINF:0,Кинокомедия HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/kinokomedia-hd-orig.m3u8
+#EXTINF:0,Комедийное HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/komedijnoe-hd-orig.m3u8
+#EXTINF:0,Камеди HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/comedy-hd-orig.m3u8
+#EXTINF:0,Amedia Premium
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/amedia-premium.m3u8
+#EXTINF:0,AMEDIA Premium HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/amedia-premium-hd-orig.m3u8
+#EXTINF:0,Amedia Hit
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/amedia-hit.m3u8
+#EXTINF:0,AMEDIA HIT HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/amedia-hit-hd-orig.m3u8
+#EXTINF:0,A1
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/amedia1.m3u8
+#EXTINF:0,A1 HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/amedia1-hd.m3u8
+#EXTINF:0,A2
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/amedia-2.m3u8
+#EXTINF:0,A2 HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/amedia-2-hd.m3u8
+#EXTINF:0,FX
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/fox.m3u8
+#EXTINF:0,FX HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/fox-hd.m3u8
+#EXTINF:0,FX Life
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/fox-life.m3u8
+#EXTINF:0,FX Life HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/fox-life-hd.m3u8
+#EXTINF:0,Red
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/set.m3u8
+#EXTINF:0,Red HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/set-hd.m3u8
+#EXTINF:0,Sci-Fi
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/sci-fi.m3u8
+#EXTINF:0,Sci-Fi HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/sci-fi-hd.m3u8
+#EXTINF:0,Suspense HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/suspense-hd.m3u8
+#EXTINF:0,Black
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/black.m3u8
+#EXTINF:0,Black HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/black-hd.m3u8
+#EXTINF:0,4ever Drama HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/4ever-drama-hd.m3u8
+#EXTINF:0,ТВ21
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/tv-xxi.m3u8
+#EXTINF:0,4ever Theater HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/4ever-theater-hd.m3u8
+#EXTINF:0,Мосфильм
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/mosfilm.m3u8
+#EXTINF:0,Мосфильм HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/mosfilm-hd-orig.m3u8
+#EXTINF:0,Любимое Кино
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/lubimoe-kino.m3u8
+#EXTINF:0,Любимое Кино HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/lubimoe-kino-hd.m3u8
+#EXTINF:0,Советская Киноклассика HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/sovetskaya-kinoclassica-hd.m3u8
+#EXTINF:0,Родное кино
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/rodnoje_kino.m3u8
+#EXTINF:0,Победа
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/pobeda.m3u8
+#EXTINF:0,Победа HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/pobeda-hd.m3u8
+#EXTINF:0,Победа HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/pobeda-hd-orig.m3u8
+#EXTINF:0,День Победы HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/den-pobedy-hd.m3u8
+#EXTINF:0,Наше новое кино
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/nashe-novoe-kino.m3u8
+#EXTINF:0,Наше новое кино HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/nashe-novoe-kino-hd-orig.m3u8
+#EXTINF:0,Русский Бестселлер
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/russkij-bestseller.m3u8
+#EXTINF:0,Телекафе
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/telekafe.m3u8
+#EXTINF:0,Дом Кино
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/dom-kino.m3u8
+#EXTINF:0,Дом Кино Премиум HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/dom-kino-premium-hd.m3u8
+#EXTINF:0,Русский Роман
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/russkij-roman.m3u8
+#EXTINF:0,Русский Роман HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/russkij-roman-hd-orig.m3u8
+#EXTINF:0,Русский Детектив
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/russkij-detektiv.m3u8
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/russkij-iluzion.m3u8
+#EXTINF:0,Русский Иллюзион HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/russkij-iluzion-hd.m3u8
+#EXTINF:0,Ужасы HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/uzhasy-hd.m3u8
+#EXTINF:0,Иллюзион +
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/iluzion-plus.m3u8
+#EXTINF:0,Иллюзион + HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/iluzion-plus-hd.m3u8
+#EXTINF:0,Феникс+Кино
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/feniks-plus-kino.m3u8
+#EXTINF:0,Феникс+Кино HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/feniks-plus-kino-hd.m3u8
+#EXTINF:0,Мир Сериала
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/mir-seriala.m3u8
+#EXTINF:0,Мир Сериала HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/mir-seriala-hd.m3u8
+#EXTINF:0,Романтичное HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/romantichnoe-hd.m3u8
+#EXTINF:0,Про Любовь HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/pro-lubov-hd-orig.m3u8
+#EXTINF:0,Лавстори HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/love-story-hd.m3u8
+#EXTINF:0,Romance HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/romance-hd.m3u8
+#EXTINF:0,НТВ Хит
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/ntv-hit.m3u8
+#EXTINF:0,НТВ Хит HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/ntv-hit-hd.m3u8
+#EXTINF:0,НТВ Сериал
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/ntv-serial.m3u8
+#EXTINF:0,НТВ Сериал HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/ntv-serial-hd.m3u8
+#EXTINF:0,Ностальгия
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/nostalgia.m3u8
+#EXTINF:0,Ретро ТВ
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/retro.m3u8
+#EXTINF:0,Сапфир HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/sapfir-hd.m3u8
+#EXTINF:0,Дорама HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/dorama-hd.m3u8
+#EXTINF:0,Bollywood HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/bollywood.m3u8
+#EXTINF:0,Индийское Кино
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/indija-tv.m3u8
+#EXTINF:0,Индия ТВ
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/zee-tv.m3u8
+#EXTINF:0,Индия ТВ HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/zee-tv-hd.m3u8
+#EXTINF:0,Исторический HD
+#EXTGRP:Кино
+http://s01.wsbof.com:8090/s/aa0084a7/istorytchesky-hd.m3u8
+#EXTINF:0,Матч Премьер
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/nash-futbol.m3u8
+#EXTINF:0,Матч Премьер HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/nash-futbol-hd-orig.m3u8
+#EXTINF:0,Футбол
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/futbol.m3u8
+#EXTINF:0,Футбол HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/futbol-hd.m3u8
+#EXTINF:0,МАТЧ! Футбол 1
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-futbol-1.m3u8
+#EXTINF:0,МАТЧ! Футбол 1 HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-futbol-1-hd-orig.m3u8
+#EXTINF:0,МАТЧ! Футбол 2
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-futbol-2.m3u8
+#EXTINF:0,МАТЧ! Футбол 2 HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-futbol-2-hd-orig.m3u8
+#EXTINF:0,МАТЧ! Футбол 3
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-futbol-3.m3u8
+#EXTINF:0,МАТЧ! Футбол 3 HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-futbol-3-hd-orig.m3u8
+#EXTINF:0,Матч ТВ
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-tv.m3u8
+#EXTINF:0,Матч ТВ HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-tv-hd-orig.m3u8
+#EXTINF:0,Матч! Игра
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-igra.m3u8
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-igra-hd-orig.m3u8
+#EXTINF:0,Матч! Арена
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-arena.m3u8
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-arena-hd-orig.m3u8
+#EXTINF:0,Матч! Страна
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-strana.m3u8
+#EXTINF:0,Матч! Страна HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-strana-hd.m3u8
+#EXTINF:0,Старт HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/start-hd.m3u8
+#EXTINF:0,KHL
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/khl-tv.m3u8
+#EXTINF:0,KHL HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/khl-tv-hd-orig.m3u8
+#EXTINF:0,KHL Prime HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/khl-prime-hd-orig.m3u8
+#EXTINF:0,Хоккейный HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/hokkejnyj-hd.m3u8
+#EXTINF:0,Футбольный HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/futbolnyj-hd.m3u8
+#EXTINF:0,Спортивный HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/sportivnyj-hd.m3u8
+#EXTINF:0,NBA HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/nba-tv-hd.m3u8
+#EXTINF:0,Viju+ sport
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/viasat-sport.m3u8
+#EXTINF:0,Viju+ sport HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/viasat-sport-hd.m3u8
+#EXTINF:0,Eurosport 1
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/eurosport.m3u8
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/eurosport-hd-orig.m3u8
+#EXTINF:0,Eurosport 2
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/eurosport2.m3u8
+#EXTINF:0,Eurosport 2 HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/eurosport2-hd-orig.m3u8
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/setanta-sport-hd-orig.m3u8
+#EXTINF:0,Setanta Sports 2 HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/setanta-sport-plus-hd-orig.m3u8
+#EXTINF:0,Setanta Sports UA HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/setanta-sport-ua-hd-orig.m3u8
+#EXTINF:0,MMA-TV
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/m1-global.m3u8
+#EXTINF:0,Setanta Sports + UA HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/setanta-sport-plus-ua-hd-orig.m3u8
+#EXTINF:0,UPL 1 HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/upl1-ua-hd.m3u8
+#EXTINF:0,Setanta Qazaqstan HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/setanta-qazaqstan-hd.m3u8
+#EXTINF:0,QSport HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/qsport-hd.m3u8
+#EXTINF:0,Спорт 1
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/sport1-ua.m3u8
+#EXTINF:0,Спорт 2
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/sport2-ua.m3u8
+#EXTINF:0,MMA-TV HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/m1-global-hd.m3u8
+#EXTINF:0,UDAR HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/ufc-hd.m3u8
+#EXTINF:0,МАТЧ! Боец
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-boec.m3u8
+#EXTINF:0,Матч! Боец HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/match-boec-hd.m3u8
+#EXTINF:0,Точка Отрыва
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/tochka-otryva.m3u8
+#EXTINF:0,Русский Экстрим HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/russkij-extrim-hd.m3u8
+#EXTINF:0,Extreme Sports
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/extreme-sports.m3u8
+#EXTINF:0,Конный Мир HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/konnyj-mir-hd.m3u8
+#EXTINF:0,Авто Плюс HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/auto-plus-hd.m3u8
+#EXTINF:0,Авто 24 HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/avto-24-hd.m3u8
+#EXTINF:0,Драйв HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/drive-hd.m3u8
+#EXTINF:0,Первый Автомобильный HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/pervyj-avto-hd-ua.m3u8
+#EXTINF:0,NHL Network HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/nhl-network-hd-us.m3u8
+#EXTINF:0,Setanta Sports Baltic 2 HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/setanta-sports2-baltic-hd.m3u8
+#EXTINF:0,MEGOGO Спорт HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/megogo-sport-ua-hd-orig.m3u8
+#EXTINF:0,Setanta Sports Baltic 1 HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/aa0084a7/setanta-sports-baltic-hd.m3u8
+#EXTINF:0,Детский мир
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/detskij-mir.m3u8
+#EXTINF:0,Детский Мир HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/detskij-mir-hd.m3u8
+#EXTINF:0,Карусель
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/karusel.m3u8
+#EXTINF:0,Карусель HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/karusel-hd.m3u8
+#EXTINF:0,В гостях у сказки
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/gosti-skazka.m3u8
+#EXTINF:0,В гостях у сказки HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/gosti-skazka-hd.m3u8
+#EXTINF:0,Чижик HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/chizik-hd.m3u8
+#EXTINF:0,Мульт
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/mult.m3u8
+#EXTINF:0,Мульт HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/mult-hd.m3u8
+#EXTINF:0,КиноМульт
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/kinomult.m3u8
+#EXTINF:0,Мультиландия
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/multimania.m3u8
+#EXTINF:0,Мультиландия HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/multimania-hd.m3u8
+#EXTINF:0,Мультимузыка
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/strana.m3u8
+#EXTINF:0,СТС Kids
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/ctc-kids.m3u8
+#EXTINF:0,СТС Kids HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/ctc-kids-hd.m3u8
+#EXTINF:0,Капитан Фантастика HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/ginger-hd.m3u8
+#EXTINF:0,СуперГерои HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/super-geroi-hd.m3u8
+#EXTINF:0,Рыжий
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/ryzhij.m3u8
+#EXTINF:0,Уникум
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/detksij.m3u8
+#EXTINF:0,Уникум HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/detskij-hd.m3u8
+#EXTINF:0,Ducktv HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/ducktv-hd.m3u8
+#EXTINF:0,Лёва HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/ljova-hd.m3u8
+#EXTINF:0,Солнце
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/solnce.m3u8
+#EXTINF:0,О!
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/kanal-o.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/nickelodeon.m3u8
+#EXTINF:0,Nickelodeon HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/nickelodeon-hd.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/cartoon-network.m3u8
+#EXTINF:0,ТипТоп HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/tip-top-hd.m3u8
+#EXTINF:0,Cartoonito HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/cartoonito-hd.m3u8
+#EXTINF:0,Nick Jr
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/nickjr.m3u8
+#EXTINF:0,TiJi
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/tiji.m3u8
+#EXTINF:0,Gulli Girl
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/gulli.m3u8
+#EXTINF:0,Ani
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/ani.m3u8
+#EXTINF:0,2x2
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/2x2.m3u8
+#EXTINF:0,FAN HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/fan-hd.m3u8
+#EXTINF:0,ПлюсПлюс HD
+#EXTGRP:Мультфильмы
+http://s01.wsbof.com:8090/s/aa0084a7/plus-plus-ua-hd.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/nat-geo.m3u8
+#EXTINF:0,National Geographic HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/nat-geo-hd-orig.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/discovery.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/discovery-hd-orig.m3u8
+#EXTINF:0,Investigation Discovery
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/id-xtra.m3u8
+#EXTINF:0,Investigation Discovery HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/id-xtra-hd.m3u8
+#EXTINF:0,TLC
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/tlc.m3u8
+#EXTINF:0,TLC HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/tlc-hd-orig.m3u8
+#EXTINF:0,Womens Magazine HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/womens-magazine-hd.m3u8
+#EXTINF:0,Animal planet
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/animal-planet.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/animal-planet-hd-orig.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/nat-geo-wild.m3u8
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/nat-geo-wild-hd-orig.m3u8
+#EXTINF:0,Love Nature HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/love-nature-hd.m3u8
+#EXTINF:0,В мире животных HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/animal-family-hd.m3u8
+#EXTINF:0,Viju nature
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/viasat-nature.m3u8
+#EXTINF:0,Viju nature HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/viasat-nature-hd.m3u8
+#EXTINF:0,Viju+ planet HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/viasat-history-hd-test.m3u8
+#EXTINF:0,Viju explore
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/viasat-explore.m3u8
+#EXTINF:0,Viju explore HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/viasat-explore-hd.m3u8
+#EXTINF:0,Моя планета
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/moya-planeta.m3u8
+#EXTINF:0,Моя планета HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/moya-planeta-hd.m3u8
+#EXTINF:0,Живая Планета
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/zhivaya-planeta.m3u8
+#EXTINF:0,Живая природа HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/zhivaja-priroda-hd.m3u8
+#EXTINF:0,Big Planet HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/big-planet-hd.m3u8
+#EXTINF:0,Terra HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/terra-hd.m3u8
+#EXTINF:0,Travel Channel
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/travel-channel.m3u8
+#EXTINF:0,Travel Channel HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/travel-channel-hd.m3u8
+#EXTINF:0,Travel+Adventure
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/travel-adventure.m3u8
+#EXTINF:0,Travel+Adventure HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/travel-adventure-hd-orig.m3u8
+#EXTINF:0,Приключения HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/teletravel-hd.m3u8
+#EXTINF:0,Телепутешествия
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/teleputeshestvija.m3u8
+#EXTINF:0,The Explorers HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/the-explorers-hd.m3u8
+#EXTINF:0,Глазами Туриста HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/glazami-turista-hd.m3u8
+#EXTINF:0,Наша Тема
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/nasha-tema.m3u8
+#EXTINF:0,Наша Тема HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/nasha-tema-hd.m3u8
+#EXTINF:0,Поехали HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/poehali-hd.m3u8
+#EXTINF:0,Неизвестная Россия HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/neizvestnaya-rossia-hd.m3u8
+#EXTINF:0,Большая Азия HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/big-asia-hd.m3u8
+#EXTINF:0,RTG
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/rtg.m3u8
+#EXTINF:0,RTG HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/rtg-hd.m3u8
+#EXTINF:0,HDL
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/hd-life.m3u8
+#EXTINF:0,Ocean-TV
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/ocean-tv.m3u8
+#EXTINF:0,Моя Стихия HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/morskoj-hd.m3u8
+#EXTINF:0,Zooпарк
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/zoopark.m3u8
+#EXTINF:0,Рыболов
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/ohotnik-rybolov.m3u8
+#EXTINF:0,Охотник и рыболов HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/ohotnik-rybolov-hd.m3u8
+#EXTINF:0,Дикая Охота HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/dikaya-ohota-hd.m3u8
+#EXTINF:0,Дикая Рыбалка HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/dikaya-rybalka-hd.m3u8
+#EXTINF:0,Охота и рыбалка
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/oxota-rybalka.m3u8
+#EXTINF:0,Диалоги о Рыбалке
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/dialogi-rybalka.m3u8
+#EXTINF:0,Диалоги о Рыбалке HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/dialogi-rybalka-hd.m3u8
+#EXTINF:0,Оружие
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/oruzhie.m3u8
+#EXTINF:0,Арсенал HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/arsenal-hd.m3u8
+#EXTINF:0,Мужской
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/muzhskoj.m3u8
+#EXTINF:0,Техно 24
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/t24.m3u8
+#EXTINF:0,Наука
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/nauka.m3u8
+#EXTINF:0,Наука HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/nauka-hd-orig.m3u8
+#EXTINF:0,Galaxy HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/galaxy-hd-orig.m3u8
+#EXTINF:0,Первый космический HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/eureka-hd.m3u8
+#EXTINF:0,Da Vinci
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/da-vinci-learning.m3u8
+#EXTINF:0,Curiosity Stream HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/curiosity-stream-hd.m3u8
+#EXTINF:0,History HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/history-hd.m3u8
+#EXTINF:0,History 2 HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/h2-hd.m3u8
+#EXTINF:0,Viju history
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/viasat-history.m3u8
+#EXTINF:0,Viju history HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/viasat-history-hd.m3u8
+#EXTINF:0,История
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/istorija.m3u8
+#EXTINF:0,365 Дней
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/365-dnej.m3u8
+#EXTINF:0,Top Secret
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/sovershenno-sekretno.m3u8
+#EXTINF:0,Кто есть кто
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/kto-est-kto.m3u8
+#EXTINF:0,Криминальное HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/kriminalnoe-hd.m3u8
+#EXTINF:0,НТВ Право
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/ntv-pravo.m3u8
+#EXTINF:0,Зал Суда HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/zal-suda-hd.m3u8
+#EXTINF:0,Доктор
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/zdorovoe-tv.m3u8
+#EXTINF:0,Доктор HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/zdorovoe-tv-hd.m3u8
+#EXTINF:0,Вопросы и ответы
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/voprosy-otvety.m3u8
+#EXTINF:0,Живи
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/zhivi.m3u8
+#EXTINF:0,Живи HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/zhivi-hd.m3u8
+#EXTINF:0,Усадьба
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/usadba.m3u8
+#EXTINF:0,Усадьба HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/usadba-hd.m3u8
+#EXTINF:0,Домашние животные
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/domashnije-zhivotnye.m3u8
+#EXTINF:0,Загородный int HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/zagorodnyy-int-hd.m3u8
+#EXTINF:0,Загородная Жизнь HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/zagorodnaya-zhizn.m3u8
+#EXTINF:0,НТВ Стиль
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/ntv-style.m3u8
+#EXTINF:0,НТВ Стиль HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/ntv-style-hd.m3u8
+#EXTINF:0,Бобер
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/bober.m3u8
+#EXTINF:0,HGTV HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/hgtv-hd.m3u8
+#EXTINF:0,E HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/kanal-e-hd.m3u8
+#EXTINF:0,Fashion and LifeStyle HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/fashion-hd.m3u8
+#EXTINF:0,Еда
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/eda.m3u8
+#EXTINF:0,Food Time HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/food-time-hd.m3u8
+#EXTINF:0,Food Network HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/food-network-hd.m3u8
+#EXTINF:0,Кухня ТВ
+#EXTGRP:Познавательные
+http://s01.wsbof.com:8090/s/aa0084a7/kuxnya-tv.m3u8
+#EXTINF:0,1HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/1hd.m3u8
+#EXTINF:0,Муз-ТВ
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/muz-tv.m3u8
+#EXTINF:0,Музыка Первого
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/muzyka-pervogo.m3u8
+#EXTINF:0,Europa Plus TV
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/evropa-plus-tv.m3u8
+#EXTINF:0,Europa Plus TV HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/evropa-plus-tv-hd.m3u8
+#EXTINF:0,Music Box Gold
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/music-box-gold.m3u8
+#EXTINF:0,Russian MusicBox
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/russian-musicbox.m3u8
+#EXTINF:0,Russian MusicBox HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/russian-musicbox-hd.m3u8
+#EXTINF:0,ТНТ Music
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/tnt-music.m3u8
+#EXTINF:0,O!2 HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/o2tv-hd.m3u8
+#EXTINF:0,Жара
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/zhara.m3u8
+#EXTINF:0,Жара HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/zhara-hd.m3u8
+#EXTINF:0,RU TV
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/ru-tv.m3u8
+#EXTINF:0,RU TV HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/ru-tv-hd.m3u8
+#EXTINF:0,AIVA HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/aiva-hd.m3u8
+#EXTINF:0,Kronehit HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/kronehit-hd.m3u8
+#EXTINF:0,One BY HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/one-by-hd.m3u8
+#EXTINF:0,One by Russia HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/one-by-russia-hd.m3u8
+#EXTINF:0,Clubbing HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/clubbing-hd.m3u8
+#EXTINF:0,Mooz Dance HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/mooz-dance-hd.m3u8
+#EXTINF:0,Bridge TV Deluxe HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/bridge-tv-hd.m3u8
+#EXTINF:0,Bridge TV Fresh HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/bridge-tv-fresh.m3u8
+#EXTINF:0,Bridge TV
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/bridge-tv.m3u8
+#EXTINF:0,Bridge TV Hits
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/bridge-tv-hits.m3u8
+#EXTINF:0,Bridge TV Hits HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/bridge-tv-hits-hd.m3u8
+#EXTINF:0,Bridge TV Русский Хит
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/rusong-tv.m3u8
+#EXTINF:0,Bridge TV Classic
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/bridge-classic.m3u8
+#EXTINF:0,Bridge TV Шлягер
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/bridge-tv-shlager.m3u8
+#EXTINF:0,Bridge TV Rock
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/bridge-tv-rock.m3u8
+#EXTINF:0,Bridge TV Rock HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/bridge-tv-rock-hd.m3u8
+#EXTINF:0,M1 HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/m1-ua-hd.m3u8
+#EXTINF:0,M2 HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/m2-ua-hd.m3u8
+#EXTINF:0,Ля-минор
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/la-minor.m3u8
+#EXTINF:0,Шансон ТВ
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/shanson-tv.m3u8
+#EXTINF:0,Stingray Cmusic
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/stingray-cmusic.m3u8
+#EXTINF:0,iConcerts
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/iconcerts-hd.m3u8
+#EXTINF:0,Classic Music HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/classic-music.m3u8
+#EXTINF:0,Mezzo Live HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/mezzo-hd.m3u8
+#EXTINF:0,MTV Live HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/mtv-live-hd.m3u8
+#EXTINF:0,MTV Europe
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/mtv-europe.m3u8
+#EXTINF:0,MTV Hits
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/mtv-hits.m3u8
+#EXTINF:0,Club MTV
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/club-mtv.m3u8
+#EXTINF:0,MTV 00s
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/vh1-europe.m3u8
+#EXTINF:0,MTV 90s
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/mtv-rocks.m3u8
+#EXTINF:0,MTV 80s
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/mtv-80s.m3u8
+#EXTINF:0,MCM TOP
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/mcm-top.m3u8
+#EXTINF:0,MCM TOP HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/mcm-top-hd.m3u8
+#EXTINF:0,4ever Music HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/4ever-music-hd.m3u8
+#EXTINF:0,EU Music HD
+#EXTGRP:Музыкальные
+http://s01.wsbof.com:8090/s/aa0084a7/eu-music-hd.m3u8
+#EXTINF:0,Extasy 4k
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/extasy-4k.m3u8
+#EXTINF:0,Eromania 4k
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/eromania-4k-orig.m3u8
+#EXTINF:0,Penthouse Gold
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/penthouse1-hd.m3u8
+#EXTINF:0,Penthouse Quickies
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/penthouse2-hd.m3u8
+#EXTINF:0,Redlight HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/redlight-hd.m3u8
+#EXTINF:0,Dorcel TV HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/dorcel-tv-hd.m3u8
+#EXTINF:0,Vivid Red HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/vivid-red-hd.m3u8
+#EXTINF:0,Private HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/private-tv.m3u8
+#EXTINF:0,Hustler HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/hustler-hd.m3u8
+#EXTINF:0,Brazzers TV HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/brazzers-tv.m3u8
+#EXTINF:0,Babes HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/babes-hd.m3u8
+#EXTINF:0,Шалун HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/shalun-hd.m3u8
+#EXTINF:0,Шёлк HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/shyolk-hd.m3u8
+#EXTINF:0,Eroxxx HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/eroxxx-hd.m3u8
+#EXTINF:0,Exxxotica HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/exxxotica-hd.m3u8
+#EXTINF:0,Red Lips HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/red-lips.m3u8
+#EXTINF:0,XXL
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/xxl-tv.m3u8
+#EXTINF:0,Dorcel TV
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/dorcel-tv.m3u8
+#EXTINF:0,Blue Hustler
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/blue-hustler.m3u8
+#EXTINF:0,Русская Ночь
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/ruskaja-noch.m3u8
+#EXTINF:0,Playboy TV
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/playboy-tv.m3u8
+#EXTINF:0,Extasy TV HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/extasy-tv-hd.m3u8
+#EXTINF:0,Vixen TV HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/vixen-tv-hd.m3u8
+#EXTINF:0,Evil Angel HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/evil-angel-hd.m3u8
+#EXTINF:0,Erox
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/erox.m3u8
+#EXTINF:0,Erox HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/erox-hd.m3u8
+#EXTINF:0,SuperOne
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/super-one.m3u8
+#EXTINF:0,Blue Hustler HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/blue-hustler-hd.m3u8
+#EXTINF:0,Русская Ночь HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/ruskaja-noch-hd.m3u8
+#EXTINF:0,Playboy TV HD
+#EXTGRP:XXX 18
+http://s01.wsbof.com:8090/s/aa0084a7/playboy-tv-hd.m3u8
+#EXTINF:0,Кино UHD
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/kino-uhd-4k.m3u8
+#EXTINF:0,Ultra HD Cinema
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/ultra-hd-cinema-4k.m3u8
+#EXTINF:0,Сериал UHD
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/serial-uhd-4k.m3u8
+#EXTINF:0,Eleven Sports 1 4K
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/eleven-sports-1-4k.m3u8
+#EXTINF:0,Sport 5 4K
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/sport5-il-4k.m3u8
+#EXTINF:0,Русский Экстрим UHD
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/russkij-extrim-4k.m3u8
+#EXTINF:0,Insight UHD
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/insight-uhd-4k.m3u8
+#EXTINF:0,Home 4k
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/home-4k.m3u8
+#EXTINF:0,Love Nature 4k
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/love-nature-4k.m3u8
+#EXTINF:0,Наша Сибирь 4k
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/nasha-sibir-4k.m3u8
+#EXTINF:0,Глазами Туриста 4k
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/glazami-turista-4k.m3u8
+#EXTINF:0,TravelXP 4K
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/travelxp-4k.m3u8
+#EXTINF:0,Quadro 4К
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/quadro-4k.m3u8
+#EXTINF:0,MyZen 4k
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/myzen-4k.m3u8
+#EXTINF:0,Museum 4k
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/museum-4k.m3u8
+#EXTINF:0,Fashion TV 4K
+#EXTGRP:Ultra HD
+http://s01.wsbof.com:8090/s/aa0084a7/fashion-one-4k.m3u8
+#EXTINF:0,24 Канал
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/24ch-ua.m3u8
+#EXTINF:0,24 Канал HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/24ch-ua-hd.m3u8
+#EXTINF:0,OBOZ TV
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/oboz-ua.m3u8
+#EXTINF:0,OBOZ TV HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/oboz-ua-hd.m3u8
+#EXTINF:0,НТН
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/ntn-ua.m3u8
+#EXTINF:0,НТН HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/ntn-ua-hd.m3u8
+#EXTINF:0,ТЕТ
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/tet-ua.m3u8
+#EXTINF:0,ТЕТ HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/tet-ua-hd.m3u8
+#EXTINF:0,Eспресо TV
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/espresso-ua.m3u8
+#EXTINF:0,Eспресо TV HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/espresso-ua-hd.m3u8
+#EXTINF:0,Прямий
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/tonis-ua.m3u8
+#EXTINF:0,Прямий HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/tonis-ua-hd.m3u8
+#EXTINF:0,K1
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/k1-ua.m3u8
+#EXTINF:0,K1 HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/k1-ua-hd.m3u8
+#EXTINF:0,Квартал ТВ
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/kvartal-tv-ua.m3u8
+#EXTINF:0,Квартал ТВ HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/kvartal-tv-ua-hd.m3u8
+#EXTINF:0,5 канал UA
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/5kanal-ukraina.m3u8
+#EXTINF:0,5 канал HD UA
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/5kanal-ukraina-hd.m3u8
+#EXTINF:0,Comedy Central HD UA
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/comedy-central-ua-hd.m3u8
+#EXTINF:0,Star Cinema HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/star-cinema-ua-hd.m3u8
+#EXTINF:0,Star Family HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/star-family-ua-hd.m3u8
+#EXTINF:0,Болт HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/bolt-ua-hd.m3u8
+#EXTINF:0,Enter-фільм
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/enter-film-ua.m3u8
+#EXTINF:0,Enter-фільм HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/enter-film-ua-hd.m3u8
+#EXTINF:0,ICTV
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/ictv-ua.m3u8
+#EXTINF:0,ICTV HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/ictv-ua-hd.m3u8
+#EXTINF:0,ICTV2 HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/ictv2-ua-hd.m3u8
+#EXTINF:0,СТБ
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/stb-ua.m3u8
+#EXTINF:0,СТБ HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/stb-ua-hd.m3u8
+#EXTINF:0,Перший Національний
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/pervyj-ua.m3u8
+#EXTINF:0,Перший Національний HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/pervyj-ua-hd.m3u8
+#EXTINF:0,Суспільне Київ HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/suspilne-kyiv-ua-hd.m3u8
+#EXTINF:0,Интер
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/inter-ua.m3u8
+#EXTINF:0,Интер HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/inter-ua-hd.m3u8
+#EXTINF:0,Интер+
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/inter-plus-ua.m3u8
+#EXTINF:0,Интер+ HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/inter-plus-ua-hd.m3u8
+#EXTINF:0,1+1 Украина
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/1-plus-1.m3u8
+#EXTINF:0,1+1 Украина HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/1-plus-1-hd.m3u8
+#EXTINF:0,2+2
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/2-plus-2-ua.m3u8
+#EXTINF:0,2+2 HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/2-plus-2-ua-hd.m3u8
+#EXTINF:0,Бигуди
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/bigudi-ua.m3u8
+#EXTINF:0,Бигуди HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/bigudi-ua-hd.m3u8
+#EXTINF:0,Новый Канал
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/novyj-kanal-ua.m3u8
+#EXTINF:0,Новый Канал HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/novyj-kanal-ua-hd.m3u8
+#EXTINF:0,УНИАН HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/unian-ua-hd.m3u8
+#EXTINF:0,Кус-Кус
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/kus-kus-ua.m3u8
+#EXTINF:0,Кус-Кус HD
+#EXTGRP:Украина
+http://s01.wsbof.com:8090/s/aa0084a7/kus-kus-ua-hd.m3u8
+#EXTINF:0,8 Канал HD
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/channel8-by-hd.m3u8
+#EXTINF:0,Беларусь 1
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/belarus1-by.m3u8
+#EXTINF:0,ОНТ HD
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/ont-by-hd.m3u8
+#EXTINF:0,СТВ Беларусь HD
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/stv-by-hd.m3u8
+#EXTINF:0,РТР Беларусь HD
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/rtr-belarus-by-hd.m3u8
+#EXTINF:0,Белсат HD
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/belsat-by.m3u8
+#EXTINF:0,Беларусь 1 HD
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/belarus1-by-hd.m3u8
+#EXTINF:0,Беларусь 2
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/belarus2-by.m3u8
+#EXTINF:0,Беларусь 2 HD
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/belarus2-by-hd.m3u8
+#EXTINF:0,Беларусь 3
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/belarus3-by.m3u8
+#EXTINF:0,Беларусь 3 HD
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/belarus3-by-hd.m3u8
+#EXTINF:0,Беларусь 5
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/belarus5-by.m3u8
+#EXTINF:0,Беларусь 5 HD
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/belarus5-by-hd.m3u8
+#EXTINF:0,Беларусь 24
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/belarus-24.m3u8
+#EXTINF:0,Беларусь 24 HD
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/belarus-24-hd.m3u8
+#EXTINF:0,ОНТ
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/ont-by.m3u8
+#EXTINF:0,Первый Информационный HD
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/pervyj-informacionnyj-by-hd.m3u8
+#EXTINF:0,НТВ Беларусь HD
+#EXTGRP:Беларусь
+http://s01.wsbof.com:8090/s/aa0084a7/ntv-by-hd.m3u8
+#EXTINF:0,Первый канал (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/pervyj-plus-2.m3u8
+#EXTINF:0,Россия 1 (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/rossija1-plus-2.m3u8
+#EXTINF:0,НТВ (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/ntv-plus-2.m3u8
+#EXTINF:0,ТНТ (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/tnt-plus-2.m3u8
+#EXTINF:0,РЕН ТВ (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/rentv-plus-2.m3u8
+#EXTINF:0,СТС (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/sts-plus-2.m3u8
+#EXTINF:0,Домашний (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/domashnij-plus-2.m3u8
+#EXTINF:0,Пятница (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/piatnica-plus-2.m3u8
+#EXTINF:0,ТВ3 (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/tv3-plus-2.m3u8
+#EXTINF:0,ТВЦ (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/tvc-plus-2.m3u8
+#EXTINF:0,Звезда (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/zvezda-plus-2.m3u8
+#EXTINF:0,5 канал (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/5kanal-plus-2.m3u8
+#EXTINF:0,Мир (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/mir-plus-2.m3u8
+#EXTINF:0,ОТР (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/otp-plus-2.m3u8
+#EXTINF:0,Россия-Культура (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/rossija-k-plus-2.m3u8
+#EXTINF:0,Матч ТВ (+2)
+#EXTGRP:Россия 2ч
+http://s01.wsbof.com:8090/s/aa0084a7/match-plus-2.m3u8
+#EXTINF:0,Первый канал (+4)
+#EXTGRP:Россия 4ч
+http://s01.wsbof.com:8090/s/aa0084a7/pervyj-plus-4.m3u8
+#EXTINF:0,Первый канал HD (+4)
+#EXTGRP:Россия 4ч
+http://s01.wsbof.com:8090/s/aa0084a7/pervyj-plus-4-hd.m3u8
+#EXTINF:0,Россия 1 (+4)
+#EXTGRP:Россия 4ч
+http://s01.wsbof.com:8090/s/aa0084a7/rossija1-plus-4.m3u8
+#EXTINF:0,НТВ (+4)
+#EXTGRP:Россия 4ч
+http://s01.wsbof.com:8090/s/aa0084a7/ntv-plus-4.m3u8
+#EXTINF:0,ТНТ (+4)
+#EXTGRP:Россия 4ч
+http://s01.wsbof.com:8090/s/aa0084a7/tnt-plus-4.m3u8
+#EXTINF:0,СТС (+4)
+#EXTGRP:Россия 4ч
+http://s01.wsbof.com:8090/s/aa0084a7/sts-plus-4.m3u8
+#EXTINF:0,РЕН ТВ (+4)
+#EXTGRP:Россия 4ч
+http://s01.wsbof.com:8090/s/aa0084a7/rentv-plus-4.m3u8
+#EXTINF:0,ТВ3 (+4)
+#EXTGRP:Россия 4ч
+http://s01.wsbof.com:8090/s/aa0084a7/tv3-plus-4.m3u8
+#EXTINF:0,Пятница (+4)
+#EXTGRP:Россия 4ч
+http://s01.wsbof.com:8090/s/aa0084a7/piatnica-plus-4.m3u8
+#EXTINF:0,Домашний (+4)
+#EXTGRP:Россия 4ч
+http://s01.wsbof.com:8090/s/aa0084a7/domashnij-plus-4.m3u8
+#EXTINF:0,Звезда (+4)
+#EXTGRP:Россия 4ч
+http://s01.wsbof.com:8090/s/aa0084a7/zvezda-plus-4.m3u8
+#EXTINF:0,ТВЦ (+4)
+#EXTGRP:Россия 4ч
+http://s01.wsbof.com:8090/s/aa0084a7/tvc-plus-4.m3u8
+#EXTINF:0,5 канал (+4)
+#EXTGRP:Россия 4ч
+http://s01.wsbof.com:8090/s/aa0084a7/5kanal-plus-4.m3u8
+#EXTINF:0,Мир (+4)
+#EXTGRP:Россия 4ч
+http://s01.wsbof.com:8090/s/aa0084a7/mir-plus-4.m3u8
+#EXTINF:0,Матч ТВ (+4)
+#EXTGRP:Россия 4ч
+http://s01.wsbof.com:8090/s/aa0084a7/match-plus-4.m3u8
+#EXTINF:0,Первый канал (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/pervyj-plus-7.m3u8
+#EXTINF:0,Россия 1 (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/rossija1-plus-7.m3u8
+#EXTINF:0,НТВ (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/ntv-plus-7.m3u8
+#EXTINF:0,ТНТ (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/tnt-plus-7.m3u8
+#EXTINF:0,РЕН ТВ (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/rentv-plus-7.m3u8
+#EXTINF:0,СТС (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/sts-plus-7.m3u8
+#EXTINF:0,Домашний (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/domashnij-plus-7.m3u8
+#EXTINF:0,Пятница (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/piatnica-plus-7.m3u8
+#EXTINF:0,ТВ3 (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/tv3-plus-7.m3u8
+#EXTINF:0,ТВЦ (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/tvc-plus-7.m3u8
+#EXTINF:0,Звезда (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/zvezda-plus-7.m3u8
+#EXTINF:0,5 канал (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/5kanal-plus-7.m3u8
+#EXTINF:0,Мир (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/mir-plus-7.m3u8
+#EXTINF:0,ОТР (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/otp-plus-7.m3u8
+#EXTINF:0,Россия-Культура (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/rossija-k-plus-7.m3u8
+#EXTINF:0,Матч ТВ (+7)
+#EXTGRP:Россия 7ч
+http://s01.wsbof.com:8090/s/aa0084a7/match-plus-7.m3u8
+#EXTINF:0,FreeNews HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/free-news-am-hd-orig.m3u8
+#EXTINF:0,1 in AM
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/1in-am-hd-orig.m3u8
+#EXTINF:0,ARTN HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/artn-am-hd.m3u8
+#EXTINF:0,ArmNews24 HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/arm-news24-am-hd-orig.m3u8
+#EXTINF:0,H1
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/h1-am.m3u8
+#EXTINF:0,H1 HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/h1-am-hd-orig.m3u8
+#EXTINF:0,H2
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/h2-am.m3u8
+#EXTINF:0,H2 HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/h2-am-hd-orig.m3u8
+#EXTINF:0,Armenia TV
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/armenia-am.m3u8
+#EXTINF:0,Armenia TV HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/armenia-am-hd-orig.m3u8
+#EXTINF:0,Armenia Premium HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/armenia-premium-am-hd-orig.m3u8
+#EXTINF:0,Lurer HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/lurer-am-hd-orig.m3u8
+#EXTINF:0,Fast Sports HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/vmedia-am-hd.m3u8
+#EXTINF:0,Shant
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/shant-am.m3u8
+#EXTINF:0,Shant HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/shant-am-hd-orig.m3u8
+#EXTINF:0,Shant Serial HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/shant-serial-am-hd.m3u8
+#EXTINF:0,Shant Premium HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/shant-premium-am-hd.m3u8
+#EXTINF:0,Shant Premium USA HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/shant-premium-usa-am-hd.m3u8
+#EXTINF:0,Shant Gyumri HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/shant-gyumri-am.m3u8
+#EXTINF:0,Comedy AM
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/comedy-am.m3u8
+#EXTINF:0,USArmeniaTV HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/usarmenia-am-hd.m3u8
+#EXTINF:0,Nor Hayastan HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/nor-hayastan-am-hd-orig.m3u8
+#EXTINF:0,Azatutyun TV HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/azatutyun-am-hd-orig.m3u8
+#EXTINF:0,Kentron TV
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/kentron-am.m3u8
+#EXTINF:0,Kentron TV HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/kentron-am-hd-orig.m3u8
+#EXTINF:0,HayKino
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/hay-kino-am.m3u8
+#EXTINF:0,ATV HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/atv-am-hd-orig.m3u8
+#EXTINF:0,ATV Filmzone HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/atv-filmzone-am-hd-orig.m3u8
+#EXTINF:0,ATV Tava HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/atv-tava-am-hd.m3u8
+#EXTINF:0,Yerkir
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/erkir-am.m3u8
+#EXTINF:0,Yerkir HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/erkir-am-hd.m3u8
+#EXTINF:0,5 TV
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/5tv-am.m3u8
+#EXTINF:0,5 TV HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/5tv-am-hd-orig.m3u8
+#EXTINF:0,Horizon HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/horizon-am.m3u8
+#EXTINF:0,Fortuna TV
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/fortuna-tv-am-hd.m3u8
+#EXTINF:0,Shoghakat TV
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/shoghakat-am.m3u8
+#EXTINF:0,DeltaTV HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/delta-am-hd-orig.m3u8
+#EXTINF:0,Armount HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/armount-am-hd.m3u8
+#EXTINF:0,Shant Music HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/shant-music-am-hd.m3u8
+#EXTINF:0,SongTV HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/song-tv-am-hd-orig.m3u8
+#EXTINF:0,ArmMusic HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/arm-music-am-hd.m3u8
+#EXTINF:0,Velari HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/velari-am-hd.m3u8
+#EXTINF:0,21TV HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/21tv-am-hd-orig.m3u8
+#EXTINF:0,Shant Kids HD
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/shant-kids-am-hd.m3u8
+#EXTINF:0,ArmToon
+#EXTGRP:Armenia
+http://s01.wsbof.com:8090/s/aa0084a7/arm-toon-am-hd.m3u8
+#EXTINF:0,ATV AZ
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/azad-tv-az.m3u8
+#EXTINF:0,ATV HD AZ
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/azad-tv-az-hd.m3u8
+#EXTINF:0,Baku HD
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/baku-az-hd.m3u8
+#EXTINF:0,Xazar TV HD
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/xazar-tv-az-hd.m3u8
+#EXTINF:0,Space TV HD
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/space-tv-az-hd.m3u8
+#EXTINF:0,Start TV HD
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/start-tv-az-hd.m3u8
+#EXTINF:0,ARB HD
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/arb-az-hd.m3u8
+#EXTINF:0,ARB24 HD
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/arb24-hd-az.m3u8
+#EXTINF:0,ARB Gunes HD
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/arb-gunes-az-hd.m3u8
+#EXTINF:0,Ictimai TV HD
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/ictimai-tv-az-hd.m3u8
+#EXTINF:0,CBC HD
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/cbc-hd-az.m3u8
+#EXTINF:0,CBC Sport HD
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/cbc-sport-hd-az.m3u8
+#EXTINF:0,Real TV HD AZ
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/real-tv-az-hd.m3u8
+#EXTINF:0,AzTV HD
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/aztv-az-hd.m3u8
+#EXTINF:0,MTV Azerbaycan
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/muz-tv-az.m3u8
+#EXTINF:0,TMB HD
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/tmb-az-hd.m3u8
+#EXTINF:0,Dunya TV
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/dunya-tv-az.m3u8
+#EXTINF:0,Medeniyyet TV HD
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/medeniyyet-az-hd.m3u8
+#EXTINF:0,Idman Azerbaycan HD
+#EXTGRP:Azerbaijan
+http://s01.wsbof.com:8090/s/aa0084a7/idman-az-hd.m3u8
+#EXTINF:0,TV8 HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/tv8-hd-tr.m3u8
+#EXTINF:0,Kanal 7 HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/kanal7-hd-tr.m3u8
+#EXTINF:0,Kanal D HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/kanald-hd-tr.m3u8
+#EXTINF:0,ATV HD TR
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/atv-hd-tr.m3u8
+#EXTINF:0,Star HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/star-hd-tr.m3u8
+#EXTINF:0,Show HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/show-hd-tr.m3u8
+#EXTINF:0,Now HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/fox-tr.m3u8
+#EXTINF:0,Beyaz TV HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/beyaz-tv-tr-hd.m3u8
+#EXTINF:0,TRT Spor HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/trt-spor-hd-tr.m3u8
+#EXTINF:0,TRT Spor Yıldız HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/trt-spor2-hd-tr.m3u8
+#EXTINF:0,A Spor HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/a-spor-hd-tr.m3u8
+#EXTINF:0,TLC HD TR
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/tlc-hd-tr.m3u8
+#EXTINF:0,TRT Cocuk HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/trt-cocuk-hd-tr.m3u8
+#EXTINF:0,Dream Turk HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/dream-turk-tr-hd.m3u8
+#EXTINF:0,TRT 1 HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/trt1-hd-tr.m3u8
+#EXTINF:0,CNN Turk HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/cnn-hd-tr.m3u8
+#EXTINF:0,HaberTurk HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/haberturk-hd-tr.m3u8
+#EXTINF:0,A HABER HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/a-haber-tr-hd.m3u8
+#EXTINF:0,TRT HABER HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/trt-haber-hd-tr.m3u8
+#EXTINF:0,Haber Global HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/haber-global-tr-hd.m3u8
+#EXTINF:0,TV100 HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/tv100-tr-hd.m3u8
+#EXTINF:0,24 TV HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/24-tv-hd-tr.m3u8
+#EXTINF:0,NTV HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/ntv-hd-tr.m3u8
+#EXTINF:0,KRT TV HD
+#EXTGRP:Türkiye
+http://s01.wsbof.com:8090/s/aa0084a7/krt-tv-tr-hd.m3u8
+#EXTINF:0,Welt HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/welt-hd-orig-de.m3u8
+#EXTINF:0,N-TV HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/ntv-hd-orig-de.m3u8
+#EXTINF:0,RT DE HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/rt-hd-de.m3u8
+#EXTINF:0,Das Erste HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/das-erste-hd-orig-de.m3u8
+#EXTINF:0,ONE HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/one-hd-orig-de.m3u8
+#EXTINF:0,ZDF HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/zdf-hd-orig-de.m3u8
+#EXTINF:0,ZDF Info HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/zdf-info-hd-orig-de.m3u8
+#EXTINF:0,Sat.1 HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sat1-hd-orig-de.m3u8
+#EXTINF:0,RTL HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/rtl-hd-orig-de.m3u8
+#EXTINF:0,RTL 2 HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/rtl2-hd-orig-de.m3u8
+#EXTINF:0,ProSieben HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/prosieben-hd-orig-de.m3u8
+#EXTINF:0,ProSieben Maxx HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/prosieben-maxx-hd-orig-de.m3u8
+#EXTINF:0,Kabel Eins HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/kabel-eins-hd-orig-de.m3u8
+#EXTINF:0,SIXX HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sixx-hd-orig-de.m3u8
+#EXTINF:0,3sat HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/3sat-hd-orig-de.m3u8
+#EXTINF:0,ZDF Neo HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/zdf-neo-hd-orig-de.m3u8
+#EXTINF:0,ORF 1 HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/orf1-hd-orig-de.m3u8
+#EXTINF:0,ORF 2 HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/orf2-hd-orig-de.m3u8
+#EXTINF:0,ORF III HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/orf-iii-de-hd-orig.m3u8
+#EXTINF:0,ATV HD DE
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/atv-de-hd-orig.m3u8
+#EXTINF:0,BR HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/br-de-hd-orig.m3u8
+#EXTINF:0,HR HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/hr-hd-de.m3u8
+#EXTINF:0,RBB HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/rbb-hd-de.m3u8
+#EXTINF:0,MDR HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/mdr-hd-de.m3u8
+#EXTINF:0,NDR HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/ndr-hd-de.m3u8
+#EXTINF:0,WDR HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/wdr-hd-de.m3u8
+#EXTINF:0,Discovery HD DE
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/discovery-hd-orig-de.m3u8
+#EXTINF:0,Nat Geo HD DE
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/nat-geo-hd-orig-de.m3u8
+#EXTINF:0,NatGeo Wild HD DE
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/nat-geo-wild-hd-orig-de.m3u8
+#EXTINF:0,Sky Nature HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-nature-hd-orig-de.m3u8
+#EXTINF:0,GEO TV HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/geo-tv-de-hd-orig.m3u8
+#EXTINF:0,Waidwerk HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/waidwerk-hd-orig-de.m3u8
+#EXTINF:0,Phoenix HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/phoenix-hd-orig-de.m3u8
+#EXTINF:0,Alpha HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/alpha-de-hd-orig.m3u8
+#EXTINF:0,History HD DE
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/history-hd-orig-de.m3u8
+#EXTINF:0,Sky Documentaries HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-doc-hd-orig-de.m3u8
+#EXTINF:0,Curiosity Channel HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/spiegel-wissen-de-hd-orig.m3u8
+#EXTINF:0,Kabel Eins Doku HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/kabel-eins-doku-hd-orig-de.m3u8
+#EXTINF:0,Arte HD DE
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/arte-hd-de.m3u8
+#EXTINF:0,DMAX HD DE
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/dmax-hd-orig-de.m3u8
+#EXTINF:0,TLC HD DE
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/tlc-hd-orig-de.m3u8
+#EXTINF:0,Sky Crime HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-crime-hd-orig-de.m3u8
+#EXTINF:0,Crime + Investigation HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/crime-plus-investigation-de-hd-orig.m3u8
+#EXTINF:0,Disney HD DE
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/disney-hd-orig-de.m3u8
+#EXTINF:0,Nickelodeon HD DE
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/nickelodeon-hd-de.m3u8
+#EXTINF:0,KIKA HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/kika-de-hd-orig.m3u8
+#EXTINF:0,Super RTL HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/super-rtl-hd-orig-de.m3u8
+#EXTINF:0,Comedy Central HD DE
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/comedy-central-hd-orig-de.m3u8
+#EXTINF:0,Deluxe Music HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/deluxe-music-de-hd-orig.m3u8
+#EXTINF:0,Sky Cinema Premiere HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-premieren-hd-orig-de.m3u8
+#EXTINF:0,Sky Cinema Highlights HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-special-hd-orig-de.m3u8
+#EXTINF:0,Sky Cinema Action HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-action-hd-orig-de.m3u8
+#EXTINF:0,Sky Cinema Classics HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-best-hd-orig-de.m3u8
+#EXTINF:0,Sky Cinema Family HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-family-de-hd-orig.m3u8
+#EXTINF:0,Sky Cinema Atlantic
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-atlantic-hd-orig-de.m3u8
+#EXTINF:0,Sky One HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-one-hd-orig-de.m3u8
+#EXTINF:0,Sky Krimi HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-krimi-hd-orig-de.m3u8
+#EXTINF:0,Sky Replay HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-replay-hd-orig-de.m3u8
+#EXTINF:0,Warner Film HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/warner-film-hd-orig-de.m3u8
+#EXTINF:0,Warner Serie HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/warner-serie-hd-orig-de.m3u8
+#EXTINF:0,Warner Comedy HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/warner-comedy-hd-orig-de.m3u8
+#EXTINF:0,AXN Black HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/axn-hd-orig-de.m3u8
+#EXTINF:0,AXN White HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sony-chanel-de-hd-orig.m3u8
+#EXTINF:0,Syfy HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/syfy-hd-orig-de.m3u8
+#EXTINF:0,Universal HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/universal-hd-orig-de.m3u8
+#EXTINF:0,13th Street HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/13th-street-hd-orig-de.m3u8
+#EXTINF:0,Servus TV HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/servus-hd-orig-de.m3u8
+#EXTINF:0,Romance TV HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/romance-tv-de-hd-orig.m3u8
+#EXTINF:0,RTL Nitro HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/rtl-nitro-hd-orig-de.m3u8
+#EXTINF:0,RTLup HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/rtlup-de-hd-orig.m3u8
+#EXTINF:0,VOX HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/vox-hd-orig-de.m3u8
+#EXTINF:0,VOXup HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/voxup-de-hd-orig.m3u8
+#EXTINF:0,Tele5 HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/tele5-de-hd-orig.m3u8
+#EXTINF:0,Sky Sport Premier League HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport-premier-league-de-hd-orig.m3u8
+#EXTINF:0,Sky Sport Top Event HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport1-hd-orig-de.m3u8
+#EXTINF:0,Sky Sport Tennis HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport2-hd-orig-de.m3u8
+#EXTINF:0,Sky Sport Golf HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport-golf-de-hd-orig.m3u8
+#EXTINF:0,Sky Sport Mix HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport-mix-de-hd-orig.m3u8
+#EXTINF:0,Sky Sport News HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport-news-hd-orig-de.m3u8
+#EXTINF:0,Sky Sport UHD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport-de-4k.m3u8
+#EXTINF:0,Sky Sport Bundesliga HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport-bundesliga-hd-orig-de.m3u8
+#EXTINF:0,Sportdigital Fussball HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sportdigital-fussbal-hd-orig-de.m3u8
+#EXTINF:0,DAZN 1 HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/dazn1-hd-orig-de.m3u8
+#EXTINF:0,DAZN 2 HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/dazn2-hd-orig-de.m3u8
+#EXTINF:0,Sport 1 HD DE
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sport1-hd-orig-de.m3u8
+#EXTINF:0,Sport1+ HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sport1-plus-hd-orig-de.m3u8
+#EXTINF:0,Eurosport 1 HD DE
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/eurosport1-hd-orig-de.m3u8
+#EXTINF:0,Eurosport 2 HD DE
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/eurosport2-hd-orig-de.m3u8
+#EXTINF:0,Sky Sport F1 HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport-f1-hd-orig-de.m3u8
+#EXTINF:0,ORF Sport + HD
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/orf-sport-plus-de-hd-orig.m3u8
+#EXTINF:0,Sky Sport Bundesliga UHD (Live Event)
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport-bundesliga-de-4k.m3u8
+#EXTINF:0,Sky Sport Bundesliga 1 HD (Live Event)
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport-bundesliga1-de-hd.m3u8
+#EXTINF:0,Sky Sport Bundesliga 2 HD (Live Event)
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport-bundesliga2-de-hd.m3u8
+#EXTINF:0,Sky Sport Bundesliga 3 HD (Live Event)
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport-bundesliga3-de-hd.m3u8
+#EXTINF:0,Sky Sport Bundesliga 4 HD (Live Event)
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport-bundesliga4-de-hd.m3u8
+#EXTINF:0,Sky Sport Bundesliga 5 HD (Live Event)
+#EXTGRP:Deutschland
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport-bundesliga5-de-hd.m3u8
+#EXTINF:0,BBC One HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/bbc1-uk-hd.m3u8
+#EXTINF:0,BBC Two HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/bbc2-uk-hd.m3u8
+#EXTINF:0,ITV 1 HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/itv1-uk-hd.m3u8
+#EXTINF:0,ITV 2 HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/itv2-uk-hd.m3u8
+#EXTINF:0,ITV 3 HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/itv3-uk-hd.m3u8
+#EXTINF:0,ITV 4 HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/itv4-uk-hd.m3u8
+#EXTINF:0,STV HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/stv-uk-hd.m3u8
+#EXTINF:0,Channel 4 HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/channel4-uk-hd.m3u8
+#EXTINF:0,Channel 5 HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/channel5-uk-hd.m3u8
+#EXTINF:0,Sky Cinema Premiere HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-premier-uk-hd.m3u8
+#EXTINF:0,Sky Cinema Hits HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-hits-uk-hd.m3u8
+#EXTINF:0,Sky Cinema Action HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-action-uk-hd.m3u8
+#EXTINF:0,Sky Cinema Select HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-select-uk-hd.m3u8
+#EXTINF:0,Sky Cinema Comedy HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-comedy-uk-hd.m3u8
+#EXTINF:0,Sky Cinema Family HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-family-uk-hd.m3u8
+#EXTINF:0,Sky Cinema Sci-Fi HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-sci-fi-uk-hd.m3u8
+#EXTINF:0,Sky Cinema Thriller HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-thriller-uk-hd.m3u8
+#EXTINF:0,Sky Cinema Drama HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-drama-uk-hd.m3u8
+#EXTINF:0,Sky Cinema Greats HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-greats-uk-hd.m3u8
+#EXTINF:0,Sky Showcase HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-showcase-uk-hd.m3u8
+#EXTINF:0,Sky Atlantic HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-atlantic-uk-hd.m3u8
+#EXTINF:0,Sky Max HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-max-uk-hd.m3u8
+#EXTINF:0,Sky Witness HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-witness-uk-hd.m3u8
+#EXTINF:0,Comedy Central HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/comedy-central-uk-hd.m3u8
+#EXTINF:0,Alibi HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/alibi-uk-hd.m3u8
+#EXTINF:0,Film4 HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/film4-uk-hd.m3u8
+#EXTINF:0,Gold HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/gold-uk-hd.m3u8
+#EXTINF:0,TNT Sports 1 HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/bt-sport1-hd-orig.m3u8
+#EXTINF:0,TNT Sports 2 HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/bt-sport2-hd-orig.m3u8
+#EXTINF:0,TNT Sports 3 HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/bt-sport3-hd-orig.m3u8
+#EXTINF:0,TNT Sports 4 HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/bt-sport4-hd-orig.m3u8
+#EXTINF:0,Premier Sports 1 HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/premier-sports1-uk-hd.m3u8
+#EXTINF:0,Premier Sports 2 HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/premier-sports2-uk-hd.m3u8
+#EXTINF:0,DAZN 1 HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/dazn1-hd-uk.m3u8
+#EXTINF:0,Sky Sports Premier League HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sports-premier-league-uk-hd.m3u8
+#EXTINF:0,Sky Sports Football HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sports-football-uk-hd.m3u8
+#EXTINF:0,Sky Sports+ HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sports-arena-uk-hd.m3u8
+#EXTINF:0,Sky Sports Action HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sports-action-uk-hd.m3u8
+#EXTINF:0,Sky Sports Mix HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sports-mix-uk-hd.m3u8
+#EXTINF:0,Sky Sports F1 HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sports-f1-uk-hd.m3u8
+#EXTINF:0,Sky Sports Tennis HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sports-tennis-uk-hd.m3u8
+#EXTINF:0,Sky Sports Cricket HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sports-cricket-uk-hd.m3u8
+#EXTINF:0,Sky Sports Golf HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sports-golf-uk-hd.m3u8
+#EXTINF:0,Sky Sports Main Event HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sports-main-event-uk-hd.m3u8
+#EXTINF:0,Sky Sports News HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sport-news-uk-hd.m3u8
+#EXTINF:0,Eurosport 1 HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/eurosport1-uk-hd.m3u8
+#EXTINF:0,Eurosport 2 HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/eurosport2-uk-hd.m3u8
+#EXTINF:0,Nat Geo HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/nat-geo-uk-hd.m3u8
+#EXTINF:0,Discovery Channel HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/discovery-channel-uk-hd.m3u8
+#EXTINF:0,Discovery History HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/discovery-history-uk-hd.m3u8
+#EXTINF:0,Discovery Science HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/discovery-science-uk-hd.m3u8
+#EXTINF:0,Investigation Discovery HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/id-xtra-uk-hd.m3u8
+#EXTINF:0,Discovery Turbo HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/discovery-turbo-uk-hd.m3u8
+#EXTINF:0,TLC HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/tlc-uk-hd.m3u8
+#EXTINF:0,Nat Geo Wild HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/nat-geo-wild-uk-hd.m3u8
+#EXTINF:0,Animal Planet HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/animal-planet-uk-hd.m3u8
+#EXTINF:0,Sky Nature HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-nature-uk-hd.m3u8
+#EXTINF:0,Sky History HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-history-uk-hd.m3u8
+#EXTINF:0,Sky Documentaries HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-documentaries-uk-hd.m3u8
+#EXTINF:0,Quest HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/quest-uk-hd.m3u8
+#EXTINF:0,DAVE HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/dave-uk-hd.m3u8
+#EXTINF:0,DMAX HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/dmax-uk-hd.m3u8
+#EXTINF:0,Sky Crime HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-crime-uk-hd.m3u8
+#EXTINF:0,HGTV HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/hgtv-uk-hd.m3u8
+#EXTINF:0,Food Network HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/food-network-uk-hd.m3u8
+#EXTINF:0,Nick Jr. HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/nick-jr-uk-hd.m3u8
+#EXTINF:0,Nickelodeon HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/nickelodeon-uk-hd.m3u8
+#EXTINF:0,Cartoon Network HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/cartoon-network-uk-hd.m3u8
+#EXTINF:0,Boomerang HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/boomerang-uk-hd.m3u8
+#EXTINF:0,Sky Cinema Animation HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-cinema-animation-uk-hd.m3u8
+#EXTINF:0,Sky Kids HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-kids-uk-hd.m3u8
+#EXTINF:0,CBBC/BBC Three HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/cbbc-bbc-three-uk-hd.m3u8
+#EXTINF:0,ITVBe
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/itvbe-uk-hd.m3u8
+#EXTINF:0,TNT Sports Ultimate UHD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/tnt-sports-ultimate-uk-4k.m3u8
+#EXTINF:0,DAZN NBA HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/dazn-nba-uk-hd.m3u8
+#EXTINF:0,Sky Sports F1 UHD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sports-f1-uk-4k.m3u8
+#EXTINF:0,Sky Sports Main Event UHD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/sky-sports-main-event-uk-4k.m3u8
+#EXTINF:0,History 2 HD UK
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/h2-uk-hd.m3u8
+#EXTINF:0,Really TV
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/really-uk-hd.m3u8
+#EXTINF:0,ITVX Kids HD
+#EXTGRP:UK
+http://s01.wsbof.com:8090/s/aa0084a7/itvx-kids-uk-hd.m3u8
+#EXTINF:0,LNK HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/lnk-hd-lt.m3u8
+#EXTINF:0,LRT HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/lrt-hd-lt.m3u8
+#EXTINF:0,LRT Plus HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/lrt-plus-lt-hd.m3u8
+#EXTINF:0,TV1 HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/tv1-hd-lt.m3u8
+#EXTINF:0,TV3 HD LT
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/tv3-hd-lt.m3u8
+#EXTINF:0,TV3 Plus HD LT
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/3plus-hd.m3u8
+#EXTINF:0,TV6 HD LT
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/tv6-hd-lt.m3u8
+#EXTINF:0,TV8 HD LT
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/tv8-hd-lt.m3u8
+#EXTINF:0,Delfi HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/delfi-hd-lt.m3u8
+#EXTINF:0,Info TV HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/info-tv-lt.m3u8
+#EXTINF:0,BTV HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/btv-hd-lt.m3u8
+#EXTINF:0,Lietuvos Rytas HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/lietuvos-rytas-hd-lt.m3u8
+#EXTINF:0,Balticum HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/balticum-lt.m3u8
+#EXTINF:0,Balticum Auksinis HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/balticum-auksinis-lt.m3u8
+#EXTINF:0,Balticum Platinum HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/balticum-platinum-lt-hd.m3u8
+#EXTINF:0,Siauliu Televizija HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/siauliu-televizija-hd-lt.m3u8
+#EXTINF:0,Sport 1 HD LT
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/sport1-hd-lt.m3u8
+#EXTINF:0,Kidzone Max HD LT
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/kidzone-lt.m3u8
+#EXTINF:0,Nickelodeon LT
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/nickelodeon-lt.m3u8
+#EXTINF:0,LTV1 HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/ltv1-lv-hd.m3u8
+#EXTINF:0,TV3 HD LV
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/ltv3-hd-lv.m3u8
+#EXTINF:0,TV3 Life HD LV
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/ltv3-life-hd-lv.m3u8
+#EXTINF:0,TV3 Plus HD LV
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/3-plus-hd-lv.m3u8
+#EXTINF:0,TV4 Latvija HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/tv4-latvija-lv.m3u8
+#EXTINF:0,TV6 HD LV
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/ltv6-hd-lv.m3u8
+#EXTINF:0,LTV7 HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/ltv7-hd-lv.m3u8
+#EXTINF:0,TV24 HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/tv24-lv.m3u8
+#EXTINF:0,360 TV HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/360tv-lv.m3u8
+#EXTINF:0,Kino 7 HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/kino7-lv-hd.m3u8
+#EXTINF:0,Kanal 7 HD LV
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/kanal7-baltic-lv-hd.m3u8
+#EXTINF:0,S-TV Pirma HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/stv-lv.m3u8
+#EXTINF:0,RE TV HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/re-lv.m3u8
+#EXTINF:0,Best4Sport TV HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/best4sport-hd-lv.m3u8
+#EXTINF:0,Best4Sport 2 TV HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/best4sport2-lv-hd.m3u8
+#EXTINF:0,Kidzone Max HD LV
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/kidzone-lv-hd.m3u8
+#EXTINF:0,TV3 Mini HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/tv3-mini-hd-lv.m3u8
+#EXTINF:0,Nickelodeon LV
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/nickelodeon-lv.m3u8
+#EXTINF:0,Nick Jr. HD LV
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/nick-jr-lv.m3u8
+#EXTINF:0,ETV HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/etv-hd-ee.m3u8
+#EXTINF:0,ETV Plus HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/etv-plus-hd-ee.m3u8
+#EXTINF:0,ETV 2 HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/etv2-hd-ee.m3u8
+#EXTINF:0,Kanal 2 HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/kanal2-hd-ee.m3u8
+#EXTINF:0,TV3 HD EE
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/tv3-ee-hd.m3u8
+#EXTINF:0,TV3 Life HD EE
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/tv3-life-ee-hd.m3u8
+#EXTINF:0,TV6 HD EE
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/tv6-ee-hd.m3u8
+#EXTINF:0,Duo4 HD EE
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/duo4-ee-hd.m3u8
+#EXTINF:0,Duo5 HD EE
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/duo5-ee-hd.m3u8
+#EXTINF:0,Kanal 7 HD EE
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/kanal7-baltic-ee-hd.m3u8
+#EXTINF:0,Eesti Kanal
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/eesti-kanal-ee.m3u8
+#EXTINF:0,FX HD EE
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/fox-ee-hd.m3u8
+#EXTINF:0,Nickelodeon EE
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/nickelodeon-ee.m3u8
+#EXTINF:0,Nick Jr. EE
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/nick-jr-ee.m3u8
+#EXTINF:0,Go3 Sport 1 HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/tv3-sport-lt-hd.m3u8
+#EXTINF:0,Go3 Sport 2 HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/tv3-sport2-lt-hd.m3u8
+#EXTINF:0,Go3 Sport 3 HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/tv3-sport3-lt-hd.m3u8
+#EXTINF:0,Go3 Sport Open HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/tv3-sport-open-lt-hd.m3u8
+#EXTINF:0,Go3 Films HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/tv3-film-hd-lt.m3u8
+#EXTINF:0,Filmzone HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/filmzone-lt-hd.m3u8
+#EXTINF:0,Filmzone Plus HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/filmzone-plus-lt-hd.m3u8
+#EXTINF:0,Kidzone Mini HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/kidzone-mini-lt-hd.m3u8
+#EXTINF:0,Epic Drama HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/epic-drama-lt-hd.m3u8
+#EXTINF:0,Viasat Kino HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/viasat-kino-lt-hd.m3u8
+#EXTINF:0,Viasat Kino Action HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/viasat-kino-action-lt-hd.m3u8
+#EXTINF:0,Viasat Nature HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/viasat-nature-lt-hd.m3u8
+#EXTINF:0,Viasat History HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/viasat-history-lt-hd.m3u8
+#EXTINF:0,Viasat Explore HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/viasat-explore-lt-hd.m3u8
+#EXTINF:0,Duo3 HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/duo3-lv-hd.m3u8
+#EXTINF:0,Duo6 HD
+#EXTGRP:Baltic
+http://s01.wsbof.com:8090/s/aa0084a7/duo6-lt-hd.m3u8
+#EXTINF:0,9 Канал HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/9-kanal-hd-il.m3u8
+#EXTINF:0,Kan 11 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/11-kanal-il.m3u8
+#EXTINF:0,Keshet 12 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/12-kanal-il.m3u8
+#EXTINF:0,Reshet 13 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/13-kanal-il.m3u8
+#EXTINF:0,Ch 14 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/14-kanal-il.m3u8
+#EXTINF:0,i24 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/i24-il.m3u8
+#EXTINF:0,Yes Movies Action HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yes-movies-action-hd-il.m3u8
+#EXTINF:0,Yes Movies Comedy HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yes-movies-comedy-il.m3u8
+#EXTINF:0,Yes Movies Drama HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yes-movies-drama-il-hd.m3u8
+#EXTINF:0,Yes Movies KIDS HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yes-movies-kids-hd-il.m3u8
+#EXTINF:0,Yes TV Action HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yes-action-hd-il.m3u8
+#EXTINF:0,Yes TV Comedy HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yes-comedy-hd-il.m3u8
+#EXTINF:0,Yes TV Drama HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yes-drama-hd-il.m3u8
+#EXTINF:0,HOT Cinema 1 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/hot-cinema1-il.m3u8
+#EXTINF:0,HOT Cinema 2 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/hot-cinema2-il.m3u8
+#EXTINF:0,HOT Cinema 3 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/hot-cinema3-il.m3u8
+#EXTINF:0,HOT Cinema 4 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/hot-cinema4-il.m3u8
+#EXTINF:0,HOT Israeli Cinema HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/hot-israeli-cinema-il-hd.m3u8
+#EXTINF:0,HBO HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/hot-hbo-il.m3u8
+#EXTINF:0,Zone HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/hot-zone-hd-il.m3u8
+#EXTINF:0,Viva Telenovelas HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/viva-il.m3u8
+#EXTINF:0,Viva Premium HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/viva-premium-il-hd.m3u8
+#EXTINF:0,Viva Istanbul HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/viva-plus-il.m3u8
+#EXTINF:0,Viva Vintage
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/viva-vintage-il.m3u8
+#EXTINF:0,HOT 3 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/hot3-hd-il.m3u8
+#EXTINF:0,HOT 8 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/hot-8-il-hd.m3u8
+#EXTINF:0,Yes Israeli HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yes-israel-il.m3u8
+#EXTINF:0,Channel 24 HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/channel24-il-hd.m3u8
+#EXTINF:0,Turkish Dramas Plus HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/turkish-dramas-plus-il.m3u8
+#EXTINF:0,Turkish Dramas 2 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/turkish-dramas2-il-hd.m3u8
+#EXTINF:0,Turkish Dramas 3 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/turkish-dramas3-il-hd.m3u8
+#EXTINF:0,Yam Tichoni HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yamtihoni-il.m3u8
+#EXTINF:0,Yam Tichoni 2 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yam-tichoni2-il-hd.m3u8
+#EXTINF:0,Yam Tichoni+ HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yam-tichoni-plus-hd.m3u8
+#EXTINF:0,Indian Series HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/indian-series-il-hd.m3u8
+#EXTINF:0,Indian Series 2 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/indian-series2-il-hd.m3u8
+#EXTINF:0,Bollywood Indian Movies HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/hot-bollywood-il.m3u8
+#EXTINF:0,Bollywood Indian Classic Movies HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/bollywood-classic-il-hd.m3u8
+#EXTINF:0,Animal Planet HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/animal-planet-il-hd.m3u8
+#EXTINF:0,Nat Geo Wild HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yes-natgeo-wild-il-hd.m3u8
+#EXTINF:0,National Geographic HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yes-natgeo-il-hd.m3u8
+#EXTINF:0,Discovery HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/discovery-hd-il.m3u8
+#EXTINF:0,History HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/history-il.m3u8
+#EXTINF:0,Travel Channel HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/travel-channel-il.m3u8
+#EXTINF:0,Yes Docu HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yes-docu-il-hd.m3u8
+#EXTINF:0,One Doco HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/one-doco-il-hd.m3u8
+#EXTINF:0,Home Plus IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/home-plus-il.m3u8
+#EXTINF:0,Design Channel HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/the-design-channel-il-hd.m3u8
+#EXTINF:0,Entertainment HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/entertainment-il.m3u8
+#EXTINF:0,E! HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/e-il.m3u8
+#EXTINF:0,The Food Channel
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/the-food-channel-il.m3u8
+#EXTINF:0,Food Network HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/food-network-il.m3u8
+#EXTINF:0,Foody HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/foody-il-hd.m3u8
+#EXTINF:0,Healt HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/health-il.m3u8
+#EXTINF:0,Good Life HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/good-life-il.m3u8
+#EXTINF:0,CBS Reality IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/cbs-reality-il.m3u8
+#EXTINF:0,HOT Real HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/hot-real-il-hd.m3u8
+#EXTINF:0,Sport 1 HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/sport1-hd-il.m3u8
+#EXTINF:0,Sport 2 HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/sport2-hd-il.m3u8
+#EXTINF:0,Sport 3 HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/sport3-hd-il.m3u8
+#EXTINF:0,Sport 4 HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/sport4-hd-il.m3u8
+#EXTINF:0,Sport 5 HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/sport5-hd-il.m3u8
+#EXTINF:0,Sport 5+ HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yes-sport5-plus-il-hd.m3u8
+#EXTINF:0,Sport 5 Live HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/sport5-plus-live-hd-il.m3u8
+#EXTINF:0,Sport 5 Stars HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/sport5-stars-il-hd.m3u8
+#EXTINF:0,Sport 5 Gold HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/sport5-gold-il.m3u8
+#EXTINF:0,One HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/one-hd-il.m3u8
+#EXTINF:0,One 2 HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/one2-hd-il.m3u8
+#EXTINF:0,Ego Total HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/ego-total-il.m3u8
+#EXTINF:0,Humor Channel HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/humor-channel-il-hd.m3u8
+#EXTINF:0,HOT Comedy HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/hot-comedy-central-il-hd.m3u8
+#EXTINF:0,Classic Comedy Channel HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/classic-comedy-channel-il-hd.m3u8
+#EXTINF:0,Cinema Family HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/cinema-family-il-hd.m3u8
+#EXTINF:0,Disney HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yes-disney-il-hd.m3u8
+#EXTINF:0,Disney Jr IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/disney-jr-il.m3u8
+#EXTINF:0,Nickelodeon HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/yes-nickelodeon-il.m3u8
+#EXTINF:0,Nick Jr HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/nick-jr-il.m3u8
+#EXTINF:0,TeenNick HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/teennick-il.m3u8
+#EXTINF:0,HOP HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/hop-childhood-il.m3u8
+#EXTINF:0,Luli
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/luli-il.m3u8
+#EXTINF:0,Baby HD IL
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/baby-il.m3u8
+#EXTINF:0,Zoom HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/zoom-il.m3u8
+#EXTINF:0,Kan23 HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/kan23-il.m3u8
+#EXTINF:0,Junior HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/junior-il.m3u8
+#EXTINF:0,Music HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/music-il-hd.m3u8
+#EXTINF:0,HOT Senior HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/hot-senior-il-hd.m3u8
+#EXTINF:0,HOT Chicago HD
+#EXTGRP:Israel
+http://s01.wsbof.com:8090/s/aa0084a7/hot-chicago-il-hd.m3u8
